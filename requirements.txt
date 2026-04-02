@@ -1,0 +1,29 @@
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Models
+timm
+
+# Computer Vision & Image Processing
+opencv-python
+Pillow
+
+# Face Detection
+facenet-pytorch
+mediapipe
+
+# Augmentation
+albumentations
+
+# Data Science & Machine Learning
+numpy
+pandas
+scikit-learn
+
+# Visualization & Utils
+matplotlib
+seaborn
+tqdm
+kaggle

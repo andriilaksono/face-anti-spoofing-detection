@@ -22,10 +22,8 @@ __pycache__/
 # ================================
 # 📦 DATA (PENTING 🔥)
 # ================================
-Data/train/
-Data/test/
-Data/train_clean/
-Data/train_cropped/
+Data/
+
 
 # kalau mau tetap simpan struktur folder:
 !Data/.gitkeep

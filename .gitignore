@@ -48,6 +48,11 @@ models/
 Thumbs.db
 
 # ================================
-# 📄 DOCS (optional)
+# 📄 DOCS 
 # ================================
 *.docx
+
+# ================================
+# Notebook
+# ================================
+Notebook/Training_EfficientNet-B0.ipynb
